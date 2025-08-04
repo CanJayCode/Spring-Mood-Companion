@@ -40,16 +40,6 @@ If you're vibecoding right now, here's what you can do:
 1. **Create folder** → `spring_mood_companion/`
 2. **Make `app.py` and `mood_utils.py`** with the above code
 3. Run it: `streamlit run app.py`
-4. Let me know if:
-   - You want a dark theme
-   - You want to add charts/graphs
-   - You want to use HuggingFace for better sentiment detection
-   - You want help deploying or submitting
+
 
 ---
-
-You're set for a **cool and complete hackathon app** that’s:
-- Beginner-friendly
-- AI-powered
-- Meaningful
-- Submission-ready!
