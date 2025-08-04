@@ -1,0 +1,80 @@
+[
+  {
+    "entry": "nice\n",
+    "mood": "Positive",
+    "polarity": 0.6,
+    "timestamp": "2025-08-04 14:30:08"
+  },
+  {
+    "entry": "Very nice, what about you??\n\n",
+    "mood": "Positive",
+    "polarity": 0.78,
+    "timestamp": "2025-08-04 14:30:32"
+  },
+  {
+    "entry": "badd\n",
+    "mood": "Neutral",
+    "polarity": 0.0,
+    "timestamp": "2025-08-04 14:34:52"
+  },
+  {
+    "entry": "veryyy nice",
+    "mood": "Positive",
+    "polarity": 0.9998716115951538,
+    "timestamp": "2025-08-04 14:43:20"
+  },
+  {
+    "entry": "nice \n",
+    "mood": "Positive",
+    "polarity": 0.9998552799224854,
+    "timestamp": "2025-08-04 14:46:05"
+  },
+  {
+    "entry": "very bad",
+    "mood": "Negative",
+    "polarity": -0.9997884631156921,
+    "timestamp": "2025-08-04 14:46:16"
+  },
+  {
+    "entry": "very bad",
+    "mood": "Negative",
+    "polarity": -0.9997884631156921,
+    "timestamp": "2025-08-04 14:49:51"
+  },
+  {
+    "entry": "I'm feeling good like nothing interesting",
+    "mood": "Negative",
+    "polarity": -0.9743623733520508,
+    "timestamp": "2025-08-04 14:53:56"
+  },
+  {
+    "entry": "I'm feeling good like nothing interesting",
+    "mood": "Negative",
+    "polarity": -0.9743623733520508,
+    "timestamp": "2025-08-04 14:53:57"
+  },
+  {
+    "entry": "I'm feeling good like nothing interesting",
+    "mood": "Negative",
+    "polarity": -0.9743623733520508,
+    "timestamp": "2025-08-04 14:57:44"
+  },
+  {
+    "entry": "I'm feeling good like nothing interesting",
+    "mood": "Negative",
+    "polarity": -0.9743623733520508,
+    "timestamp": "2025-08-04 14:57:54"
+  },
+  {
+    "entry": "I'm feeling good like nothing interesting",
+    "mood": "Negative",
+    "polarity": -0.9743623733520508,
+    "timestamp": "2025-08-04 14:57:59"
+  },
+  {
+    "entry": "I'm feeling good like nothing interesting",
+    "mood": "Negative",
+    "polarity": -0.9743623733520508,
+    "timestamp": "2025-08-04 14:58:07"
+  }
+]
